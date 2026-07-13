@@ -1,0 +1,11 @@
+# Model weights are too large for GitHub (>100 MB limit) — share via Release assets instead
+docling-models/
+docling-models.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+*.ipynb
+*.csv
+*.json
